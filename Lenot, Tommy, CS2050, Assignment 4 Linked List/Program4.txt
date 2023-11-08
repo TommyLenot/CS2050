@@ -1,0 +1,5 @@
+Lenot,Tommy CS2050, Assignment: Program #4 - Linked List
+4 + 6 * 3.1
+4 + (6 * 3.1)
+(4 + 6) * 3.1
+4 + 6 * 3.1 + 1

@@ -1,0 +1,4 @@
+Lenot,Tommy CS2050, Assignment: Program #3 - Stacks: Infix to Postfix
+4 + 6 * 3.1
+4 + (6 * 3.1)
+(4 + 6) * 3.1

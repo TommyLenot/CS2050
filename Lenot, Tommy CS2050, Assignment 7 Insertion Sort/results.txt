@@ -1,0 +1,13 @@
+Type of Data: Integers
+Number of Integers: 20000
+Bubble Sort Time for Integers: 2400 nanoseconds
+Selection Sort Time for Integers: 1000 nanoseconds
+Insertion Sort Time for Integers: 48076400 nanoseconds
+System Sort Time for Integers: 13173900 nanoseconds
+------------------------------------------------------------
+Type of Data: Strings
+Number of Strings: 10000
+Bubble Sort Time for Strings: 3900 nanoseconds
+Selection Sort Time for Strings: 900 nanoseconds
+Insertion Sort Time for Strings: 128987200 nanoseconds
+System Sort Time for Strings: 6874900 nanoseconds
